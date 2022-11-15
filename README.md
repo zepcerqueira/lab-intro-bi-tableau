@@ -40,7 +40,7 @@ To complete this lab, follow each of the steps below.
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, publish your workbook on Tableau Public and place the shareable link into the submission link.
 
 ## Resources
 
